@@ -24,12 +24,15 @@ Welcome to TabIt, a sophisticated Music Recognition App that seamlessly integrat
 - Swift and Reliable Recognition: Empowered by a robust recognition algorithm and the AUDD API, TabIt swiftly delivers accurate results, aiding in precise song identification.
 
 
-https://github.com/GettinGitt/TabIt/assets/117409535/8ef12e6b-3ab7-4da7-9b68-3bd1b81b3571
+
+https://github.com/GettinGitt/TabIt/assets/117409535/cd52e694-f2ba-45ae-9962-a710340608e8
 
 
 
 
-## **Developer's Journey:**
+
+
+## **Developer's Dedication**
 
 Developing TabIt has been a fulfilling experience, marked by overcoming challenges and achieving milestones. As an iOS developer, I've dedicated myself to shaping every aspect of TabIt's creation. This includes refining its architecture, optimizing the audio recognition engine, and seamlessly integrating Firebase. Key accomplishments during this journey include:
 
