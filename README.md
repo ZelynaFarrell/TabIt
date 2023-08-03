@@ -1,4 +1,4 @@
-# TabIt
+# TabIt: Elevate Your Musical Journey with Seamless Song Recognition and Guitar Tablature Integration
 
 Welcome to TabIt, a sophisticated Music Recognition App that seamlessly integrates Guitar Tablature, all built using SwiftUI.
 
