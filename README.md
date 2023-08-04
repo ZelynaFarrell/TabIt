@@ -50,7 +50,5 @@ These accomplishments showcase my proficiency in Swift programming, audio proces
 
 
 ### **Code Snippets**
-
-<img width="1605" alt="AudDAPI" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/3404a411-ff72-4579-8c53-2c461fe70d2e">
 <img width="1617" alt="SongViewModel" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/2a74959a-2c60-43d3-8dbe-30ae50e0bf94">
 <img width="1608" alt="PhotoManager" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/2af408af-8bd1-4775-896c-435a2139a430">
