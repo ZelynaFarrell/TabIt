@@ -1,9 +1,11 @@
-# TabIt
+# <p align="center"><b>TabIt</b></p>
 
-Welcome to TabIt, a sophisticated Music Recognition App that seamlessly integrates Guitar Tablature, all built using SwiftUI.
+#### <p align="center">Welcome to TabIt, a sophisticated Music Recognition App that seamlessly integrates Guitar Tablature, all built using SwiftUI.</p>
+
+<br>
 
 
-## **Features:**
+## **Features**
 
 - <kbd style="background-color: #f0f0f0">**Music Recognition:**</kbd> TabIt employs the AUDD API to perform advanced audio recognition, enabling instant song identification from audio clips.
   
@@ -25,16 +27,18 @@ Welcome to TabIt, a sophisticated Music Recognition App that seamlessly integrat
 
 <br>
 
+## **Videos and Demos**
 
+#### App Demonstration
 
 https://github.com/GettinGitt/TabIt/assets/117409535/cd52e694-f2ba-45ae-9962-a710340608e8
 
+<br>
 
 
 
 
-
-## **Developer's Dedication**
+## <p align="center"><b>**Developer's Dedication:**</b></p>
 
 Developing TabIt has been a fulfilling experience, marked by overcoming challenges and achieving milestones. As an iOS developer, I've dedicated myself to shaping every aspect of TabIt's creation. This includes refining its architecture, optimizing the audio recognition engine, and seamlessly integrating Firebase. Key accomplishments during this journey include:
 
@@ -50,11 +54,12 @@ Developing TabIt has been a fulfilling experience, marked by overcoming challeng
 
 These accomplishments showcase my proficiency in Swift programming, audio processing, and database management, highlighting TabIt's significance in my portfolio.
 
+<br>
 
 ### **Code Snippets**
-<img width="1709" alt="AudDAPI" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/644a303c-bdda-4e0d-b799-4f171a4215e5">
-<img width="1617" alt="SongViewModel" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/2a74959a-2c60-43d3-8dbe-30ae50e0bf94">
-<img width="1608" alt="PhotoManager" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/2af408af-8bd1-4775-896c-435a2139a430">
+<img width="1500" alt="AudDAPI" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/644a303c-bdda-4e0d-b799-4f171a4215e5">
+<img width="1500" alt="SongViewModel" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/2a74959a-2c60-43d3-8dbe-30ae50e0bf94">
+<img width="1500" alt="PhotoManager" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/2af408af-8bd1-4775-896c-435a2139a430">
 
 
 
