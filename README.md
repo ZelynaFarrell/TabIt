@@ -35,7 +35,8 @@
 
 | Sign-Up Error | Log-In Error |
 |:---------------:|:----------------:|
-|<img width="489" alt="errorSIGNUP" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/14a07efc-94fa-4b10-b4d1-c54702e390ea">|<img width="556" alt="errorLOGIN" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/11e3679d-0f7f-4c15-9472-d69176982ad8">|
+|<img width="497" alt="errorSIGNUP" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/14a07efc-94fa-4b10-b4d1-c54702e390ea">|<img width="556" alt="errorLOGIN" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/11e3679d-0f7f-4c15-9472-d69176982ad8">|
+
 
 
 
