@@ -35,8 +35,26 @@
 |:---------------:|:----------------:|
 |<img width="400" alt="errorSIGNUP" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/14a07efc-94fa-4b10-b4d1-c54702e390ea">|<img width="450" alt="errorLOGIN" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/11e3679d-0f7f-4c15-9472-d69176982ad8">|
 
+<br>
+
+#### User Profile Image: PhotosPicker
+
+| Cancel Preview | Set Image |
+|:---------------:|:----------------:|
+|<img src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/65105037-3ea4-44bf-be5f-5442daf4722a.gif" alt="Cancel Preview" width="400">|<img src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/06ac7b48-35e5-4e2b-b026-bc774a174711.gif" alt="Set Image" width="400">|
+
+<br>
 
 
+
+
+#### Music Library and Tablature
+
+| Personal Library | Tablature |
+|:---------------:|:----------------:|
+| <img src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/446c2ba5-3759-484a-94ac-0f5902fb55b9.gif" alt="MusicLibrary" width="400"> | <img src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/342632f8-d18b-41d7-8276-5d6780cdcf94.gif" alt="MusicTab" width="400"> |
+
+<br>
 
 
 
