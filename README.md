@@ -33,9 +33,12 @@
 
 | Sign-Up Error | Log-In Error |
 |:---------------:|:----------------:|
-|<img width="400" alt="errorSIGNUP" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/14a07efc-94fa-4b10-b4d1-c54702e390ea">|<img width="450" alt="errorLOGIN" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/11e3679d-0f7f-4c15-9472-d69176982ad8">|
+|<img width="400" alt="errorSIGNUP" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/b1888eb3-ad76-401a-b873-aa8bdb6414bc">|<img width="400" alt="errorLOGIN" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/870e3079-9e82-4381-8f35-a7182dda3bde">|
 
 <br>
+
+
+
 
 #### User Profile Image: PhotosPicker
 
