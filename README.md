@@ -1,4 +1,4 @@
-# <p align="center"><b>TabIt</b></p>
+# <p align="center"><b>TabIt: Your Ultimate Music Companion</b></p>
 
 #### <p align="center">Welcome to TabIt, a sophisticated Music Recognition App that seamlessly integrates Guitar Tablature, all built using SwiftUI.</p>
 
@@ -7,23 +7,21 @@
 
 ## **Features**
 
-- <kbd style="background-color: #f0f0f0">**Music Recognition:**</kbd> TabIt employs the AUDD API to perform advanced audio recognition, enabling instant song identification from audio clips.
+- <kbd style="background-color: #f0f0f0">**Music Recognition:**</kbd> Instantly identify songs using advanced audio recognition powered by the AUDD API.
   
-- <kbd style="background-color: #f0f0f0">**Guitar Tablature Integration:**</kbd> Recognized songs provide access to an extensive collection of guitar tablature through TabIt. Uncover chords, melodies, and notes to refine your guitar skills.
+- <kbd style="background-color: #f0f0f0">**Guitar Tablature Integration:**</kbd> Access an extensive collection of guitar tablature to enhance your guitar skills.
 
-- <kbd style="background-color: #f0f0f0">**Firebase Integration:**</kbd> Utilizing Firebase, TabIt ensures secure storage of recognized songs within user profiles, with the option for personalized images and settings.
+- <kbd style="background-color: #f0f0f0">**Firebase Integration:**</kbd> Safely store recognized songs in user profiles, with personalized images and settings.
 
-- <kbd style="background-color: #f0f0f0">**User Profiles:**</kbd> Tailor TabIt to your preferences by creating unique user profiles with custom images and display settings.
+- <kbd style="background-color: #f0f0f0">**User Profiles:**</kbd> Customize your experience by creating unique profiles with custom images and display settings.
 
 - <kbd style="background-color: #f0f0f0">**Personal Song Library:**</kbd> Build and manage a curated library of recognized songs, simplifying practice and reference.
 
-- <kbd style="background-color: #f0f0f0">**Data Security:**</kbd> TabIt prioritizes data security, offering a private environment for storing and accessing your personalized song collection.
+- <kbd style="background-color: #f0f0f0">**Data Security:**</kbd> Prioritize data security with a private environment for your personalized song collection.
 
-- <kbd style="background-color: #f0f0f0">**Cross-Platform Syncing:**</kbd> Seamlessly access saved songs and tablature across various devices, maintaining consistency in your musical journey.
+- <kbd style="background-color: #f0f0f0">**Cross-Platform Syncing:**</kbd> Access saved songs and tablature across devices for consistency in your musical journey.
 
-- <kbd style="background-color: #f0f0f0">**User-Friendly Interface:**</kbd> TabIt boasts an intuitive user interface, designed to accommodate users of all skill levels.
-
-- <kbd style="background-color: #f0f0f0">**Swift and Reliable Recognition:**</kbd> Empowered by a robust recognition algorithm and the AUDD API, TabIt swiftly delivers accurate results, aiding in precise song identification.
+- <kbd style="background-color: #f0f0f0">**User-Friendly Interface:**</kbd> Enjoy an intuitive interface designed for users of all skill levels.
 
 <br>
 
