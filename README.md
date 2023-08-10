@@ -1,4 +1,4 @@
-# <p align="center"><b>TabIt: Your Ultimate Music Companion</b></p>
+# <p align="center"><b>TabIt: Musicians Ultimate Companion</b></p>
 
 #### <p align="center">Welcome to TabIt, a sophisticated Music Recognition App that seamlessly integrates Guitar Tablature. Explore a world of musical possibilities as TabIt empowers you to identify songs instantly and access detailed guitar tablature. Whether you're a beginner or an experienced musician, TabIt's user-friendly interface and robust features make it the perfect companion for your musical journey, all built using SwiftUI.</p>
 
