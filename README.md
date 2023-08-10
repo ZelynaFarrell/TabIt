@@ -75,7 +75,7 @@ https://github.com/GettinGitt/TabIt/assets/117409535/cd52e694-f2ba-45ae-9962-a71
 
 
 
-## <p align="center"><b>**Developer's Dedication:**</b></p>
+## <p align="center">**Developer's Dedication**</p>
 
 Developing TabIt has been a fulfilling experience, marked by overcoming challenges and achieving milestones. Key accomplishments during this journey include:
 
@@ -88,6 +88,10 @@ Developing TabIt has been a fulfilling experience, marked by overcoming challeng
 - <kbd style="background-color: #f0f0f0">**User-Centric Design:**</kbd> Designing an intuitive user interface that appeals to musicians of all levels posed an engaging challenge. Balancing simplicity with comprehensive features through thoughtful design iterations resulted in an enjoyable user experience.
 
 - <kbd style="background-color: #f0f0f0">**Data Security and Privacy:**</kbd> Ensuring robust data security and privacy measures was a cornerstone of TabIt's development. Overcoming challenges related to data protection, encryption, and authentication created a secure environment for users.
+
+<br>
+
+## <p align="center">**Insights for Interviewers**</p>
 
 These accomplishments showcase my proficiency in Swift programming, audio processing, and database management, highlighting TabIt's significance in my portfolio.
 
