@@ -91,11 +91,13 @@ Developing TabIt has been a fulfilling experience, marked by overcoming challeng
 
 <br>
 
+
 ## <p align="center">**Insights for Interviewers**</p>
 
-These accomplishments showcase my proficiency in Swift programming, audio processing, and database management, highlighting TabIt's significance in my portfolio.
+TabIt represents a harmonious blend of my passion for music and iOS development. Through TabIt, I've demonstrated my adeptness in leveraging advanced technologies to create seamless user experiences. This project is a testament to my commitment to crafting intuitive interfaces that cater to musicians' needs, fostering enjoyable and productive practice sessions. With TabIt, I've seamlessly merged my artistic and technical skills to design an app that resonates with musicians of all levels. Beyond innovation, TabIt underscores my commitment to data security and privacy, ensuring a safe and inspiring space for users to explore their musical potential.
 
 <br>
+
 
 ### **Code Snippets**
 <img width="1500" alt="AudDAPI" src="https://github.com/ZelynaFarrell/TabIt/assets/117409535/644a303c-bdda-4e0d-b799-4f171a4215e5">
