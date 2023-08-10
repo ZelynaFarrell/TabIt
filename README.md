@@ -1,6 +1,6 @@
 # <p align="center"><b>TabIt: Your Ultimate Music Companion</b></p>
 
-#### <p align="center">Welcome to TabIt, a sophisticated Music Recognition App that seamlessly integrates Guitar Tablature, all built using SwiftUI.</p>
+#### <p align="center">Welcome to TabIt, a sophisticated Music Recognition App that seamlessly integrates Guitar Tablature. Explore a world of musical possibilities as TabIt empowers you to identify songs instantly and access detailed guitar tablature. Whether you're a beginner or an experienced musician, TabIt's user-friendly interface and robust features make it the perfect companion for your musical journey, all built using SwiftUI.</p>
 
 <br>
 
@@ -77,7 +77,7 @@ https://github.com/GettinGitt/TabIt/assets/117409535/cd52e694-f2ba-45ae-9962-a71
 
 ## <p align="center"><b>**Developer's Dedication:**</b></p>
 
-Developing TabIt has been a fulfilling experience, marked by overcoming challenges and achieving milestones. As an iOS developer, I've dedicated myself to shaping every aspect of TabIt's creation. This includes refining its architecture, optimizing the audio recognition engine, and seamlessly integrating Firebase. Key accomplishments during this journey include:
+Developing TabIt has been a fulfilling experience, marked by overcoming challenges and achieving milestones. Key accomplishments during this journey include:
 
 - <kbd style="background-color: #f0f0f0">**Advanced Audio Recognition:**</kbd> Crafting a music recognition engine that performs swiftly and accurately was a significant endeavor. Countless iterations and optimizations ensured precise song identification, even in noisy environments.
 
